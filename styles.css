@@ -1,0 +1,51 @@
+/* Global Styles */
+body {
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #f0f0f0;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1, h2 {
+    font-family: 'Georgia', serif;
+    color: #0044cc;
+}
+
+/* Div styling and positioning */
+.video-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#tableau {
+    background-color: #e0e0e0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Lists */
+ol {
+    list-style: decimal inside;
+}
+
+ul {
+    list-style: disc inside;
+}
+
+/* Link Styling */
+a {
+    color: #0044cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
